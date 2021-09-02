@@ -7,8 +7,9 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/pratyushakar/">
-  <img alt="Pratyusha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Pratyusha's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 - 😄 Pronouns: she/her
 
 
