@@ -1,6 +1,5 @@
 <p align="center">
-<img align="right" width=150px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-</p>
+<img align="center" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <p align="center">
 ### Hello, My name is Pratyusha Kar! I"m a Software Engineer who is passionate about building tech and learning new technologies👋
 </p>
@@ -63,4 +62,6 @@ Leave a ⭐️ if you like this template and want to modify it for yourself!
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyusha23kar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
+</p>
+
 
