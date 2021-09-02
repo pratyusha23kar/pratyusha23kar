@@ -24,9 +24,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+Leave a ⭐️ if you like this template and want to modify it for yourself!
+<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
-<a href="https://www.buymeacoffee.com/pratyushakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<!-- <a href="https://www.buymeacoffee.com/pratyushakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyusha23kar.pratyusha23kar)
 
