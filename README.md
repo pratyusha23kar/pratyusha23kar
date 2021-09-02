@@ -6,9 +6,9 @@
 - 🌱 I’m currently learning Ruby on Rails and React
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: 
-- <a href="https://www.linkedin.com/in/pratyushakar/">
-  - <img align= "center" alt="Pratyusha's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-- </a>
+  <a href="https://www.linkedin.com/in/pratyushakar/">
+    <img align= "center" alt="Pratyusha's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
 
 - 😄 Pronouns: she/her
 
