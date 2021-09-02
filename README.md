@@ -1,6 +1,8 @@
-### Hello, My name is Pratyusha Kar! I"m a Software Engineer who is passionate about building tech and learning new technologies👋
 <p align="center">
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+</p>
+<p align="center">
+### Hello, My name is Pratyusha Kar! I"m a Software Engineer who is passionate about building tech and learning new technologies👋
 </p>
 <hr>
 
