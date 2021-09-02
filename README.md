@@ -5,7 +5,8 @@
 - 🔭 I’m currently working on some cool projects
 - 🌱 I’m currently learning Ruby on Rails and React
 - 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/pratyushakar"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+- 📫 How to reach me: 
+     <a href="https://www.linkedin.com/in/pratyushakar"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 - 😄 Pronouns: she/her
 
 
