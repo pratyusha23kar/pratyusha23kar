@@ -23,8 +23,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
+![SpringMVC](https://img.shields.io/badge/-SpringMVC-05122A?style=flat&logo=springMVC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
