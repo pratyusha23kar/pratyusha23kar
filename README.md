@@ -37,7 +37,10 @@ Leave a ⭐️ if you like this template and want to modify it for yourself!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyusha23kar.pratyusha23kar)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratyusha23kar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+  <a href="https://github.com/pratyusha23kar">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyusha23karshow_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=pratyusha23kar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 <a href="https://github.com/pratyusha23kar">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyusha23kar&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </a> 
