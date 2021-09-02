@@ -28,6 +28,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/pratyushakar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pratyusha23kar.pratyusha23kar)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=pratyusha23kar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
